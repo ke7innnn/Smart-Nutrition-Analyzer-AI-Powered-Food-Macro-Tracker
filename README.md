@@ -19,3 +19,4 @@ No JSON parsing required — robust and ready for end-users
 Built with Python & Streamlit for fast deployment
 
 📸 Demo
+![Meal Analysis Screenshot](images.jpeg)
